@@ -4,4 +4,4 @@ chardet==3.0.4
 idna==3.7
 notify2==0.3.1
 requests==2.32.4
-urllib3==2.6.0
+urllib3==2.6.3
